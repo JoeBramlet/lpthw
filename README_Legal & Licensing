@@ -1,0 +1,40 @@
+Legal & Licensing
+This project contains two types of content, each with its own license:
+
+1. Book Text (Chapters, Explanations, Reflections, Templates)
+Licensed under:
+
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY‑NC‑SA 4.0)
+
+This means:
+
+No commercial use is allowed
+
+You may not sell, publish, or distribute this material in paid products
+
+You may not include this material in paid courses or books
+
+You must give attribution if you share or adapt it
+
+Any adaptations must be shared under the same license
+
+This protects the book from being repackaged or sold by others.
+
+2. Code Samples and Exercise Solutions
+Licensed under the:
+
+MIT License
+
+This allows learners to freely use, modify, and share the code while keeping the book text protected.
+
+3. Ownership and Rights
+All content in this repository is original work created during my own learning process.
+I retain full copyright and may relicense, revise, or publish future versions commercially.
+
+4. No Affiliation
+This project is not affiliated with, endorsed by, or derived from Learn Python the Hard Way or its author.
+
+This material includes content from "Learn Python 3 the Joe Way" by Joe,
+licensed under CC BY-NC-SA 4.0. Original project available at:
+https://github.com/<your-repo>
+

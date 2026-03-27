@@ -1,0 +1,40 @@
+"""PREFACE — Learn Python 3 the Joe Way
+(Draft v1.0)
+
+Learning Python shouldn’t feel like reading a manual. 
+It should feel like building something with your own hands — one small,
+repeatable skill at a time. That’s the spirit of this book.
+
+This project began as my personal notes while working through the 
+classic Learn Python the Hard Way. The original book was brilliant 
+for its time, but Python has evolved, and so has the way we learn. 
+I wanted something modern, something clearer, something that explained
+not just what to type, but why it matters.
+
+So I built this companion book.
+
+Each chapter contains:
+
+a clean Python 3 version of the exercise
+
+a breakdown of the concepts
+
+modern Python 3 notes
+
+an alternate example in my own voice
+
+mini‑challenges
+
+and reflections for my future self
+
+Over time, this grew into a structured, repeatable learning system 
+— one that others might find useful too.
+
+This book is not a replacement for LPTHW.
+It’s the next evolution of the method.
+
+If you’re holding this, I hope it helps you learn Python the way I did:
+through repetition, curiosity, and a little bit of fun.
+
+— Joe
+"""

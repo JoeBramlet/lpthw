@@ -1,0 +1,36 @@
+"""# Introduction
+
+Python is one of the most approachable programming languages in the world, 
+but learning it can still feel overwhelming. Most books either move too fast, 
+explain too little, or assume you already know half the material.
+
+This book takes a different approach.
+
+It began as my personal notes while working through the classic 
+*Learn Python the Hard Way*. That book was brilliant for its time, 
+but Python has evolved, and so has the way we learn. I wanted something 
+modern, something clearer, something that explained not just what to type, 
+but why it matters.
+
+So I rebuilt the system from the ground up.
+
+Each chapter in this book follows a consistent structure:
+
+- A clean Python 3 version of the exercise  
+- A breakdown of the concepts  
+- Modern Python 3 notes  
+- An alternate example in my own voice  
+- Mini-challenges to push the idea further  
+- Reflections for my future self  
+
+This creates a learning loop:  
+**read → type → understand → apply → reflect**.
+
+The goal isn’t to memorize Python.  
+The goal is to build *fluency* — the kind that sticks.
+
+Whether you're brand new to programming or revisiting Python after years away, 
+this book gives you a clear, modern, repeatable path forward.
+
+Let’s get started.
+"""

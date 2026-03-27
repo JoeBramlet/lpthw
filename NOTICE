@@ -1,0 +1,23 @@
+This repository uses a dual-license structure:
+
+1. Code samples and exercise solutions are licensed under the MIT License.
+2. All written content (chapters, explanations, reflections, templates, and
+   narrative material) is licensed under the Creative Commons
+   Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+Attribution Requirement:
+Any redistribution, adaptation, or sharing of this material must include the
+following acknowledgment:
+
+"Portions of this work are based on the 'Learn Python 3 the Joe Way' project
+by Joe, available at https://github.com/<your-repo> and licensed under
+CC BY-NC-SA 4.0."
+
+Commercial use of any part of this project is strictly prohibited.
+
+This project is not affiliated with, endorsed by, or derived from "Learn
+Python the Hard Way" or its author. All content is original work created
+during my own learning process.
+
+I retain full copyright and may relicense or publish future versions
+commercially.

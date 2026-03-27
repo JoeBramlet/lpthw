@@ -1,0 +1,109 @@
+"""STARTER OUTLINE FOR THE ENTIRE BOOK
+This is the structure of a full Python 3 beginner book based on your system.
+
+PART I — Foundations
+Printing and Running Code
+
+Variables and Names
+
+Numbers and Math
+
+Strings and Text
+
+More Strings
+
+String Formatting
+
+Building Strings (this chapter)
+
+Printing, Printing
+
+Printing, Printing, Printing
+
+Escape Sequences
+
+Input and Prompting
+
+Parameters, Unpacking, Variables
+
+PART II — Logic and Flow
+If Statements
+
+If/Else
+
+Nested Conditionals
+
+Boolean Logic
+
+Functions
+
+Functions with Arguments
+
+Return Values
+
+More Functions
+
+PART III — Data Structures
+Lists
+
+Dictionaries
+
+Tuples
+
+Loops
+
+Looping and Lists
+
+Looping and Dictionaries
+
+List Comprehensions
+
+String Methods
+
+PART IV — Files and Modules
+Reading Files
+
+Writing Files
+
+Working with Paths
+
+Modules
+
+Imports
+
+Packages
+
+PART V — Real Python
+Classes
+
+Objects
+
+Methods
+
+Inheritance
+
+Composition
+
+Exceptions
+
+Debugging
+
+Testing
+
+Building a Small Project
+
+PART VI — Beyond the Basics
+Virtual Environments
+
+Pip and Packages
+
+APIs
+
+JSON
+
+CLI Tools
+
+Automation
+
+Final Project
+"""
